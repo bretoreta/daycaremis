@@ -10,18 +10,18 @@ Daycare Management Information Syatem is an open source web application built us
 - Simple database notification system
 
 
-I would like tomention that I have pretty many exciting updates in line for this application, so constantly I will be updating it as I finish up the features I would like to add to it.
+I would like to mention that I have pretty many exciting updates in line for this application, so constantly I will be updating it as I finish up the features I would like to add to it.
 
 ## Using The Application
 
-For you to use the application you'll need to download it to your computer. This can be donw in to ways. If you gave **GIT** installed then you can follow the next step. If you don't have it installed please skip the following step.
+For you to use the application you'll need to download it to your computer. This can be done in to ways. If you gave **GIT** installed then you can follow the next step. If you don't have it installed please skip the following step.
 
 - Open the folder you wish the project to be located and open a new command prompt (WindowsOS) or Terminal(Linux/MacOS) there.
 - Type in the following command.
 
 <code>$~ git clone https://github.com/bremmurd/daycaremis.git</code>
 
-- After successfull completeion the project will be in the opened folder in a sub-folder called pipe.
+- After successfull completeion the project will be in the opened folder in a sub-folder called daycaremis.
 
 If however you do not have **GIT** installed you can just download the project directly from here by clicking the code button and then click download zip file.
 
@@ -35,7 +35,7 @@ After a successful completion of the three, the application is ready to be serve
 
 <code>$~ php artisan serve</code>
 
-Copy the address shown and open it in your browser, and there you go! The app should be now working! Please remember however to create a database named pipe in your database provider. You can change database related settings on the **.env** file.
+Copy the address shown and open it in your browser, and there you go! The app should be now working! Please remember however to create a database named daycare in your database provider. You can change database related settings on the **.env** file.
 
 ## DaycareMIS Sponsors
 
