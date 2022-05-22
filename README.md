@@ -19,7 +19,7 @@ For you to use the application you'll need to download it to your computer. This
 - Open the folder you wish the project to be located and open a new command prompt (WindowsOS) or Terminal(Linux/MacOS) there.
 - Type in the following command.
 
-<code>$~ git clone https://github.com/bremmurd/daycaremis</code>
+<code>$~ git clone https://github.com/bremmurd/daycaremis.git</code>
 
 - After successfull completeion the project will be in the opened folder in a sub-folder called pipe.
 
