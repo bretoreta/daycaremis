@@ -1,6 +1,6 @@
 ## About DaycareMIS
 
-Daycare Management Information Syatem is an open source web application built using the Laravel Framework for managing a daycare facility and its daily activities. The UI is simple, colorful, user friendly and easy to use. Currently it can do the bare minimum but as updates keep getting released it will support more features. It currently has the following features:
+Daycare Management Information System is an open source web application built using the Laravel Framework for managing a daycare facility and its daily activities. The UI is simple, colorful, user friendly and easy to use. Currently it can do the bare minimum but as updates keep getting released it will support more features. It currently has the following features:
 
 - Simple, fast tasks proccessing.
 - Expressive, intuitive and elegant User Interface.
